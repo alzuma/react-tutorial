@@ -1,0 +1,16 @@
+.mom-message {
+  font-size: 60px;
+  font-weight: 600; }
+
+::-webkit-input-placeholder {
+  color: blue; }
+
+:-ms-input-placeholder {
+  color: blue; }
+
+::-ms-input-placeholder {
+  color: blue; }
+
+::placeholder {
+  color: blue; }
+
